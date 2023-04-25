@@ -1,4 +1,4 @@
-### Hi there 👋, im Nuris
+### Hi there 👋, im Alex
 
 
 ## I'm a Python BackEnd Developer
@@ -6,7 +6,7 @@
 - 🎉 I like to reading books and watching videos about programming
 - 🥅 I am constantly learning new things and 
 - ⚡️ I like play sport and speaking I like to speak foreign languages such as 
-English and German
+English
 
 ### Connect with me:
 
@@ -38,6 +38,5 @@ English and German
 
 
 
-[linkedin]: https://www.linkedin.com/in/nurislam-kalmanbetov-5461a0242
-[instagram]: https://www.instagram.com/nuris.klm/
-[telegram]: https://www.t.me/Nurislamkalmanbetov/
+[instagram]: https://www.instagram.com/xzntsv/
+[telegram]: https://www.t.me/Aleksandr072/
